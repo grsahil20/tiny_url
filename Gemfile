@@ -24,7 +24,6 @@ end
 
 gem 'config'
 gem "rails_config"
-gem "redis-namespace"
 gem 'pg_search'
 gem "kaminari"
 gem "bootstrap-kaminari-views"
